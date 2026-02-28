@@ -1,2 +1,1 @@
 This is Sample Text
-Tutorial about Git And Github
